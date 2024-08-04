@@ -1,0 +1,81 @@
+body{
+
+    
+    background-image: linear-gradient(to bottom right,rgb(17, 181, 236), rgb(16, 75, 101));
+    background-repeat: no-repeat;
+}
+
+#card{
+    margin: 80px 40px 80px 40px;
+    border: 1px solid black;
+    background-image: linear-gradient(to bottom left,rgb(222, 203, 140),white, rgb(179, 243, 243));
+    width: 1100px;
+    height: 550px;
+    border-radius: 20px;
+    display: flex;
+    flex-direction: column;
+    font-family: Arial, "Helvetica Neue", Helvetica, sans-serif;;
+}
+
+#head1{
+    display: flex;
+    padding-top: 30px ;
+}
+
+#mnttl{
+    font-size: 40px;
+    padding: 0px 150px 0px 50px;
+}
+
+#menu{
+    padding: 0px 130px 0px 50px;
+}
+
+#cont{
+    
+    padding:10px 50px 0px 0px;
+}
+
+#ctnt{
+    display: flex;
+    margin: 30px 0px 50px 0px;
+
+}
+
+#ctnt-prt1{
+    width: 50%;
+    margin: 0px 10px 0px 10px;
+    padding: 0px 10px 0px 40px;
+    
+}
+
+#ctnt-prt2{
+    margin: 10px 10px 0px 10px;
+    padding: 20px 10px 0px 30px;
+    
+}
+
+#brwn-col{
+width: 125px;
+height :125px;
+background-image: linear-gradient(to bottom right,rgb(212, 201, 201),rgb(213, 161, 101));
+position: absolute; 
+}
+
+#grn-col{
+    margin-left: 290px;
+    margin-top: 270px;
+    width: 50px;
+    height :50px;
+    background-color:rgb(25, 216, 226);
+    position: absolute; 
+    }
+
+#coffee-tables{
+    margin-left: 70px;
+    margin-top: 50px;
+    width: 250px;
+    height :250px;
+    
+}
+
